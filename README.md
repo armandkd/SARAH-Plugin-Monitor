@@ -1,4 +1,4 @@
 SARAH-Plugin-Monitor
 ====================
 
-SARAH monitoring pluging for Raspberry-pi
+SARAH monitoring plugin for Raspberry-pi
