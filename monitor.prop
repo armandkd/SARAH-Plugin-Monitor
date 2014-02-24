@@ -1,0 +1,8 @@
+{
+  "modules": { 
+    "monitor": {
+      "description": "Monitoring des variables système du RaspberryPi",
+      "version": "1.0"
+    }
+  }
+}
